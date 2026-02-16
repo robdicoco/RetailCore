@@ -36,7 +36,7 @@ The $RTC token is designed as a **deflationary utility token** with an on-chain 
 
 - **Name:** RetailCore
 - **Ticker:** $RTC
-- **Type:** ERC-20 with expiry extension. The token utilises the interface proposed in **EIP-7818** (Expiry Management) to track the Time-To-Live (TTL) of each batch.
+- **Type:** ERC-20 with expiry extension. The token utilises the interface proposed in [EIP-7818](https://eips.ethereum.org/EIPS/eip-7818) (Expiry Management) to track the Time-To-Live (TTL) of each batch.
 
 ### Minting
 
